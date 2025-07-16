@@ -1,3 +1,5 @@
 {
-  "Name": "Whats your name"
+  "greeting": "Bienvenue sur notre site web",
+   "name": "Whats your name",
+   "Tab" :"Tutor"
 }

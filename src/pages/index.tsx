@@ -15,6 +15,8 @@ export default function Home() {
     <main className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-br from-purple-50 via-white to-blue-50 text-black px-4">
       <div className="bg-white p-8 rounded-2xl shadow-lg text-center max-w-md w-full">
         <h1 className="text-3xl font-bold">{t('greeting')}</h1>
+        <h2 className="text-3xl font-bold">{t('name')}</h2>
+        <h2 className="text-3xl font-bold">{t('tab')}</h2>
 
         <div className="mt-6 flex justify-center gap-4">
           <button
