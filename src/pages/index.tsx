@@ -34,10 +34,6 @@ export default function Home() {
           {t('button_start')}
         </button>
       </section>
-
-      <footer className="w-full text-center py-4 mt-auto bg-white border-t">
-        <p className="text-gray-600">{t('footer_text')}</p>
-      </footer>
     </main>
   );
 }
