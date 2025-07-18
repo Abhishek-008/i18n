@@ -1,5 +1,6 @@
 {
+  "tab": "Tuteur",
   "greeting": "Bienvenue sur notre site web",
   "name": "Quel est votre nom",
-  "tab": "Tuteur"
+  "button_start": "Get Started"
 }
