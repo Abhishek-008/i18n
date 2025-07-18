@@ -1,5 +1,6 @@
 {
-  "greeting": "Welcome to the page",
-   "name": "Whats your name",
-   "Tab" :"Tutor"
+  "tab": "Tutor Platform",
+  "greeting": "Learn Smarter, Grow Faster",
+  "name": "Your personalized learning companion designed to make education simple, interactive, and effective.",
+  "button_start": "Get Started"
 }
